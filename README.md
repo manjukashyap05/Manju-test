@@ -1,2 +1,0 @@
-# Manju-test
-customer Survey  
